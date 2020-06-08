@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		843097D024353E3A00D3CA79 /* swordsman_attack_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 843097CB24353E3900D3CA79 /* swordsman_attack_5.png */; };
+		843097D124353E3A00D3CA79 /* swordsman_attack_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 843097CC24353E3A00D3CA79 /* swordsman_attack_3.png */; };
+		843097D224353E3A00D3CA79 /* swordsman_attack_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 843097CD24353E3A00D3CA79 /* swordsman_attack_2.png */; };
+		843097D324353E3A00D3CA79 /* swordsman_attack_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 843097CE24353E3A00D3CA79 /* swordsman_attack_1.png */; };
+		843097D424353E3A00D3CA79 /* swordsman_attack_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 843097CF24353E3A00D3CA79 /* swordsman_attack_4.png */; };
+		843097D624353E8F00D3CA79 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 843097D524353E8F00D3CA79 /* GameScene.sks */; };
 		8447D50A2430E7F700FAFA39 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8447D5092430E7F700FAFA39 /* AppDelegate.swift */; };
 		8447D50C2430E7F700FAFA39 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 8447D50B2430E7F700FAFA39 /* GameScene.sks */; };
 		8447D50E2430E7F700FAFA39 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 8447D50D2430E7F700FAFA39 /* Actions.sks */; };
@@ -17,6 +23,20 @@
 		8447D51A2430E7F700FAFA39 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8447D5182430E7F700FAFA39 /* LaunchScreen.storyboard */; };
 		8447D5252430E7F700FAFA39 /* animationTryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8447D5242430E7F700FAFA39 /* animationTryTests.swift */; };
 		8447D5302430E7F700FAFA39 /* animationTryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8447D52F2430E7F700FAFA39 /* animationTryUITests.swift */; };
+		8447D553243171A100FAFA39 /* swordsm_run_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8447D54D243171A100FAFA39 /* swordsm_run_3.png */; };
+		8447D554243171A100FAFA39 /* swordsm_run_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 8447D54E243171A100FAFA39 /* swordsm_run_4.png */; };
+		8447D555243171A100FAFA39 /* swordsm_run_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8447D54F243171A100FAFA39 /* swordsm_run_2.png */; };
+		8447D556243171A100FAFA39 /* swordsm_run_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8447D550243171A100FAFA39 /* swordsm_run_1.png */; };
+		8447D557243171A100FAFA39 /* swordsm_run_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 8447D551243171A100FAFA39 /* swordsm_run_5.png */; };
+		8447D558243171A100FAFA39 /* swordsm_run_6.png in Resources */ = {isa = PBXBuildFile; fileRef = 8447D552243171A100FAFA39 /* swordsm_run_6.png */; };
+		8447D55D243172B400FAFA39 /* swordsm_idle_lefthand_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8447D559243172B400FAFA39 /* swordsm_idle_lefthand_1.png */; };
+		8447D55E243172B400FAFA39 /* swordsm_idle_lefthand_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8447D55A243172B400FAFA39 /* swordsm_idle_lefthand_2.png */; };
+		8447D55F243172B400FAFA39 /* swordsm_idle_lefthand_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8447D55B243172B400FAFA39 /* swordsm_idle_lefthand_3.png */; };
+		8447D560243172B400FAFA39 /* swordsm_idle_lefthand_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 8447D55C243172B400FAFA39 /* swordsm_idle_lefthand_4.png */; };
+		844F3F0F24366A230082EFEF /* swordsman-jump-50x30-03.png in Resources */ = {isa = PBXBuildFile; fileRef = 844F3F0B24366A220082EFEF /* swordsman-jump-50x30-03.png */; };
+		844F3F1024366A230082EFEF /* swordsman-jump-50x30-02.png in Resources */ = {isa = PBXBuildFile; fileRef = 844F3F0C24366A220082EFEF /* swordsman-jump-50x30-02.png */; };
+		844F3F1124366A230082EFEF /* swordsman-jump-50x30-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 844F3F0D24366A220082EFEF /* swordsman-jump-50x30-01.png */; };
+		844F3F1224366A230082EFEF /* swordsman-jump-50x30-00.png in Resources */ = {isa = PBXBuildFile; fileRef = 844F3F0E24366A220082EFEF /* swordsman-jump-50x30-00.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +57,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		843097CB24353E3900D3CA79 /* swordsman_attack_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsman_attack_5.png; sourceTree = "<group>"; };
+		843097CC24353E3A00D3CA79 /* swordsman_attack_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsman_attack_3.png; sourceTree = "<group>"; };
+		843097CD24353E3A00D3CA79 /* swordsman_attack_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsman_attack_2.png; sourceTree = "<group>"; };
+		843097CE24353E3A00D3CA79 /* swordsman_attack_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsman_attack_1.png; sourceTree = "<group>"; };
+		843097CF24353E3A00D3CA79 /* swordsman_attack_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsman_attack_4.png; sourceTree = "<group>"; };
+		843097D524353E8F00D3CA79 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		8447D5062430E7F700FAFA39 /* animationTry.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = animationTry.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8447D5092430E7F700FAFA39 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8447D50B2430E7F700FAFA39 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -53,6 +79,20 @@
 		8447D52B2430E7F700FAFA39 /* animationTryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = animationTryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8447D52F2430E7F700FAFA39 /* animationTryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animationTryUITests.swift; sourceTree = "<group>"; };
 		8447D5312430E7F700FAFA39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8447D54D243171A100FAFA39 /* swordsm_run_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsm_run_3.png; sourceTree = "<group>"; };
+		8447D54E243171A100FAFA39 /* swordsm_run_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsm_run_4.png; sourceTree = "<group>"; };
+		8447D54F243171A100FAFA39 /* swordsm_run_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsm_run_2.png; sourceTree = "<group>"; };
+		8447D550243171A100FAFA39 /* swordsm_run_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsm_run_1.png; sourceTree = "<group>"; };
+		8447D551243171A100FAFA39 /* swordsm_run_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsm_run_5.png; sourceTree = "<group>"; };
+		8447D552243171A100FAFA39 /* swordsm_run_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsm_run_6.png; sourceTree = "<group>"; };
+		8447D559243172B400FAFA39 /* swordsm_idle_lefthand_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsm_idle_lefthand_1.png; sourceTree = "<group>"; };
+		8447D55A243172B400FAFA39 /* swordsm_idle_lefthand_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsm_idle_lefthand_2.png; sourceTree = "<group>"; };
+		8447D55B243172B400FAFA39 /* swordsm_idle_lefthand_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsm_idle_lefthand_3.png; sourceTree = "<group>"; };
+		8447D55C243172B400FAFA39 /* swordsm_idle_lefthand_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swordsm_idle_lefthand_4.png; sourceTree = "<group>"; };
+		844F3F0B24366A220082EFEF /* swordsman-jump-50x30-03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "swordsman-jump-50x30-03.png"; sourceTree = "<group>"; };
+		844F3F0C24366A220082EFEF /* swordsman-jump-50x30-02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "swordsman-jump-50x30-02.png"; sourceTree = "<group>"; };
+		844F3F0D24366A220082EFEF /* swordsman-jump-50x30-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "swordsman-jump-50x30-01.png"; sourceTree = "<group>"; };
+		844F3F0E24366A220082EFEF /* swordsman-jump-50x30-00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "swordsman-jump-50x30-00.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +144,10 @@
 			isa = PBXGroup;
 			children = (
 				8447D5092430E7F700FAFA39 /* AppDelegate.swift */,
+				844F3F0E24366A220082EFEF /* swordsman-jump-50x30-00.png */,
+				844F3F0D24366A220082EFEF /* swordsman-jump-50x30-01.png */,
+				844F3F0C24366A220082EFEF /* swordsman-jump-50x30-02.png */,
+				844F3F0B24366A220082EFEF /* swordsman-jump-50x30-03.png */,
 				8447D50B2430E7F700FAFA39 /* GameScene.sks */,
 				8447D50D2430E7F700FAFA39 /* Actions.sks */,
 				8447D50F2430E7F700FAFA39 /* GameScene.swift */,
@@ -112,6 +156,22 @@
 				8447D5162430E7F700FAFA39 /* Assets.xcassets */,
 				8447D5182430E7F700FAFA39 /* LaunchScreen.storyboard */,
 				8447D51B2430E7F700FAFA39 /* Info.plist */,
+				8447D559243172B400FAFA39 /* swordsm_idle_lefthand_1.png */,
+				8447D55A243172B400FAFA39 /* swordsm_idle_lefthand_2.png */,
+				8447D55B243172B400FAFA39 /* swordsm_idle_lefthand_3.png */,
+				8447D55C243172B400FAFA39 /* swordsm_idle_lefthand_4.png */,
+				8447D550243171A100FAFA39 /* swordsm_run_1.png */,
+				8447D54F243171A100FAFA39 /* swordsm_run_2.png */,
+				8447D54D243171A100FAFA39 /* swordsm_run_3.png */,
+				8447D54E243171A100FAFA39 /* swordsm_run_4.png */,
+				8447D551243171A100FAFA39 /* swordsm_run_5.png */,
+				8447D552243171A100FAFA39 /* swordsm_run_6.png */,
+				843097CE24353E3A00D3CA79 /* swordsman_attack_1.png */,
+				843097CD24353E3A00D3CA79 /* swordsman_attack_2.png */,
+				843097CC24353E3A00D3CA79 /* swordsman_attack_3.png */,
+				843097CF24353E3A00D3CA79 /* swordsman_attack_4.png */,
+				843097CB24353E3900D3CA79 /* swordsman_attack_5.png */,
+				843097D524353E8F00D3CA79 /* GameScene.sks */,
 			);
 			path = animationTry;
 			sourceTree = "<group>";
@@ -238,11 +298,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8447D555243171A100FAFA39 /* swordsm_run_2.png in Resources */,
+				8447D55F243172B400FAFA39 /* swordsm_idle_lefthand_3.png in Resources */,
+				843097D024353E3A00D3CA79 /* swordsman_attack_5.png in Resources */,
+				8447D556243171A100FAFA39 /* swordsm_run_1.png in Resources */,
+				843097D624353E8F00D3CA79 /* GameScene.sks in Resources */,
+				844F3F1024366A230082EFEF /* swordsman-jump-50x30-02.png in Resources */,
+				8447D560243172B400FAFA39 /* swordsm_idle_lefthand_4.png in Resources */,
+				843097D224353E3A00D3CA79 /* swordsman_attack_2.png in Resources */,
+				843097D324353E3A00D3CA79 /* swordsman_attack_1.png in Resources */,
 				8447D5152430E7F700FAFA39 /* Main.storyboard in Resources */,
+				8447D55D243172B400FAFA39 /* swordsm_idle_lefthand_1.png in Resources */,
+				844F3F1224366A230082EFEF /* swordsman-jump-50x30-00.png in Resources */,
+				8447D558243171A100FAFA39 /* swordsm_run_6.png in Resources */,
+				8447D554243171A100FAFA39 /* swordsm_run_4.png in Resources */,
+				8447D55E243172B400FAFA39 /* swordsm_idle_lefthand_2.png in Resources */,
 				8447D50C2430E7F700FAFA39 /* GameScene.sks in Resources */,
 				8447D5172430E7F700FAFA39 /* Assets.xcassets in Resources */,
+				844F3F1124366A230082EFEF /* swordsman-jump-50x30-01.png in Resources */,
+				8447D557243171A100FAFA39 /* swordsm_run_5.png in Resources */,
 				8447D51A2430E7F700FAFA39 /* LaunchScreen.storyboard in Resources */,
 				8447D50E2430E7F700FAFA39 /* Actions.sks in Resources */,
+				843097D424353E3A00D3CA79 /* swordsman_attack_4.png in Resources */,
+				843097D124353E3A00D3CA79 /* swordsman_attack_3.png in Resources */,
+				844F3F0F24366A230082EFEF /* swordsman-jump-50x30-03.png in Resources */,
+				8447D553243171A100FAFA39 /* swordsm_run_3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
